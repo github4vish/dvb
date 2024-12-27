@@ -1,0 +1,11 @@
+Employee ID,Name,Age,Gender,Department,Job Role,Education Level,Attrition Status,Job Satisfaction Rating,Age Group,Hire Date,Salary,Attrition Date,Active,Years at Company
+1001,John Smith,29,Male,Sales,Sales Manager,Bachelor's,Yes,3,30-39,6/23/2015,80000,2/15/2020,No,5
+1002,Jane Doe,45,Female,HR,HR Specialist,Master's,No,4,40-49,8/17/2012,60000,,Yes,12
+1003,Sarah Lee,33,Female,IT,Software Engineer,Bachelor's,Yes,2,30-39,11/25/2016,70000,11/5/2020,No,4
+1004,Mike Brown,50,Male,Marketing,Marketing Head,MBA,No,5,50+,3/12/2010,90000,,Yes,14
+1005,Emma White,28,Female,Sales,Sales Associate,Bachelor's,No,3,20-29,1/15/2019,55000,,Yes,1
+1006,Chris Green,40,Male,IT,IT Specialist,Master's,Yes,4,40-49,9/10/2014,75000,2/22/2021,No,7
+1007,Robert Gray,35,Male,HR,HR Manager,Bachelor's,No,4,30-39,7/23/2013,72000,,Yes,11
+1008,Linda Black,26,Female,Marketing,Marketing Assistant,Bachelor's,No,3,20-29,5/10/2020,45000,,Yes,1
+1009,David Blue,38,Male,IT,System Analyst,Master's,Yes,4,30-39,1/20/2013,85000,3/12/2022,No,9
+1010,Karen Yellow,30,Female,HR,Recruitment Lead,Master's,Yes,4,30-39,7/4/2016,65000,5/10/2021,No,5

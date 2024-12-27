@@ -1,0 +1,11 @@
+Employee ID,Employee Name,Gender,Age,Department,Education Field,Job Role,Attrition,Attrition Rate (%),Active Employee,Job Satisfaction Rating,Years at Company,Monthly Income,Region
+101,John Smith,Male,34,Sales,Marketing,Sales Executive,Yes,10,No,4,5,4000,North America
+102,Jane Doe,Female,29,IT,Computer Science,Software Engineer,No,0,Yes,5,3,7000,Europe
+103,Mark Johnson,Male,41,HR,Human Resources,HR Manager,Yes,15,No,3,10,6000,Asia
+104,Emily Davis,Female,37,IT,Computer Science,Data Scientist,No,0,Yes,5,7,8500,Europe
+105,Robert Brown,Male,28,Finance,Business Administration,Financial Analyst,Yes,8,No,4,2,5000,South America
+106,Maria Garcia,Female,33,Sales,Marketing,Sales Representative,No,0,Yes,3,6,4500,Asia
+107,James Wilson,Male,45,HR,Psychology,HR Specialist,Yes,12,No,2,12,5200,North America
+108,Sarah Martinez,Female,38,IT,Computer Science,IT Support Analyst,No,0,Yes,5,8,6000,Europe
+109,David Lee,Male,31,Operations,Mechanical Engineering,Operations Manager,Yes,9,No,3,5,7000,Asia
+110,Linda Taylor,Female,26,Finance,Economics,Accountant,No,0,Yes,4,2,4000,South America

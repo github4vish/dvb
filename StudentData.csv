@@ -1,0 +1,11 @@
+Student ID,Name,Age,Gender,Department,Year of Study,GPA,State,Country,Total Credits,Scholarships ($),Attendance (%)
+101,Alice Johnson,20,Female,Computer Science,2,3.8,California,USA,45,1500,90
+102,Bob Smith,22,Male,Mechanical Engg,4,3.2,Texas,USA,60,0,85
+103,Priya Kumar,21,Female,Electronics Engg,3,3.5,Maharashtra,India,50,1200,88
+104,David Chen,19,Male,Civil Engg,1,2.9,New York,USA,15,500,75
+105,Maria Garcia,20,Female,Computer Science,2,3.7,Ontario,Canada,48,1000,92
+106,Ahmed Hassan,23,Male,Mechanical Engg,4,3.1,Cairo,Egypt,55,0,80
+107,Wei Zhang,21,Female,Electronics Engg,3,3.6,Beijing,China,50,1100,89
+108,John O'Reilly,22,Male,Civil Engg,4,3,Dublin,Ireland,52,500,82
+109,Aisha Khan,18,Female,Computer Science,1,4,Punjab,Pakistan,20,2000,95
+110,Carlos Lopez,20,Male,Mechanical Engg,2,2.8,Mexico City,Mexico,30,0,78

@@ -1,0 +1,11 @@
+Order ID,Product Category,Product Name,Region,Country,State,Customer Age,Gender,Revenue ($),Order Date,Quantity Sold,Profit ($)
+1001,Electronics,Smartphone,North America,USA,California,25,Male,1200,1/15/2023,3,300
+1002,Furniture,Office Chair,Europe,Germany,Bavaria,34,Female,450,2/10/2023,1,80
+1003,Clothing,Winter Jacket,Asia,India,Karnataka,29,Male,200,3/5/2023,2,50
+1004,Electronics,Laptop,North America,USA,New York,41,Female,1500,4/20/2023,1,400
+1005,Clothing,Sports Shoes,Asia,China,Shanghai,37,Male,300,5/15/2023,2,70
+1006,Furniture,Dining Table,Europe,UK,London,45,Female,800,6/12/2023,1,200
+1007,Electronics,Headphones,North America,USA,Texas,28,Female,150,7/8/2023,5,40
+1008,Clothing,Formal Shirt,Asia,Japan,Tokyo,32,Male,120,8/22/2023,3,30
+1009,Furniture,Bookshelf,Europe,France,Paris,50,Male,600,9/5/2023,2,150
+1010,Electronics,Tablet,North America,USA,Florida,36,Female,700,10/15/2023,2,200
